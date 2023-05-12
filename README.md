@@ -5,6 +5,9 @@ It's coming up tomorrow when i learn HTML and CSS with Tanay Pratap live on Yout
 
 For now, i know:
 1.Javascript
-1.NodeJS
-1.Repl.it
-1.CHALK
+
+2.NodeJS
+
+3.Repl.it
+
+4.CHALK
